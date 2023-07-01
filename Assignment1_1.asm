@@ -1,7 +1,6 @@
 # Program: Add or Multiply 2 Integers (Assignment 1)
 # Name: Brianna Drew
 # Username: briannadrew
-# ID: 0622446
 # Date Created: 01/25/19
 # Last Modified: 01/26/19
 
